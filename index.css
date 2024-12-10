@@ -1,0 +1,10 @@
+.welcome-message h1 {
+    font-size: 2rem;
+    color: #4CAF50;
+}
+
+.welcome-message p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #555;
+}
